@@ -86,5 +86,5 @@ sequenceDiagram
 - Test coverage for DHL sandbox, ZPL passthrough, and print pipeline.
 
 ## Required Screening Question
-- Have you previously built a DHL Express integration that prints ZPL labels directly to a Zebra (or similar) label printer? If yes, please briefly describe the project.
+- Have you previously built a DHL Express integration that prints ZPL labels directly to a Zebra (or similar) label printer? If yes, please briefly describe the project. Yes, but not with DHL API's.
 
